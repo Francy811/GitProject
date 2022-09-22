@@ -1,2 +1,6 @@
-const a = 34;
+
+const a = 100;
+const myfun = () => {}
+
+
 
